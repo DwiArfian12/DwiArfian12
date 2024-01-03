@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **Yogyakarta State University**
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://dwiarfian12.github.io/Portfolio/](https://dwiarfian12.github.io/Portfolio/)
 
