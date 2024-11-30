@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://dwiarfian12.github.io/Portfolio/](https://dwiarfian12.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [arfian.me](https://arfian.me)
 
 - 📫 How to reach me **https://wa.me/6285877043903**
 
